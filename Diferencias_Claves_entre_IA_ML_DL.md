@@ -1,6 +1,4 @@
-¡Excelente\! Aquí tienes la información solicitada formateada para ser guardada directamente en un archivo Markdown (`.md`).
 
-```markdown
 # 🧠 IA vs. ML vs. DL: Definiciones, Aplicaciones y Ejemplos
 
 Este archivo detalla las diferencias fundamentales entre la Inteligencia Artificial (IA), el Aprendizaje Automático (ML) y el Aprendizaje Profundo (DL), los cuales forman un conjunto de conceptos anidados.
