@@ -1,6 +1,6 @@
 # Introducción
 
-Este repositorio está dedicado al estudio y análisis de la **Inteligencia Artificial (IA)**, abarcando sus definiciones, aplicaciones, desafíos y evolución a lo largo del tiempo. Aquí encontrarás una colección de documentos que exploran diferentes aspectos de la IA, incluyendo:
+Este repositorio está dedicado al estudio y análisis de la **Inteligencia Artificial (IA)** para el 8vo semestre de la UNEFA, abarcando sus definiciones, aplicaciones, desafíos y evolución a lo largo del tiempo. Aquí encontrarás una colección de documentos que exploran diferentes aspectos de la IA, incluyendo:
 
 - **Definiciones**: Conceptos fundamentales sobre la IA, el Aprendizaje Automático (ML) y el Aprendizaje Profundo (DL).
 - **Aplicaciones Reales**: Ejemplos de cómo la IA se aplica en diversas industrias como salud, finanzas, educación y más.
